@@ -2,10 +2,10 @@
 Projeto do Bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot
 
 
-## Objetivo:
+## Objetivo
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
-Narrativa:
+## Narrativa:
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
 Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
 Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
